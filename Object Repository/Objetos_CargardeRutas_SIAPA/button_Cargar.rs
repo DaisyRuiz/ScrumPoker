@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cargar</name>
+   <tag></tag>
+   <elementGuidId>301a02b7-ea6f-4ad4-b819-d175e8487eee</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary float-right</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Cargar
+                </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;row d-flexflex-nowrap wrapper mt-3&quot;]/div[@class=&quot;col-12 col-md-8 float-left py-3 bg-white float-left&quot;]/div[@class=&quot;form-inline float-right pl-md-3&quot;]/div[@class=&quot;form-group ml-2&quot;]/button[@class=&quot;btn btn-outline-primary float-right&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
