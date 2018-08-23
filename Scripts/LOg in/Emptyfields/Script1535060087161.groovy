@@ -26,7 +26,7 @@ import org.testng.Assert
 import org.openqa.selenium.WebDriver
 
 WebDriver driver = DriverFactory.getWebDriver();
-
+//Commit a git
 
 //Si el elemento no se encuentra se detiene y tienes la posibilidad de manejar el error
 WebUI.click(findTestObject("Log in/input_btn"), FailureHandling.STOP_ON_FAILURE)
